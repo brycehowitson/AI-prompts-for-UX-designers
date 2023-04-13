@@ -1,0 +1,1 @@
+# Prompts to create content for use in prototyping.
