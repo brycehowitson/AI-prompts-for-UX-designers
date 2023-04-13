@@ -12,7 +12,7 @@ Simply select the prompt you want, copy into your choice of chat based LLM (Chat
 
 ---
 ## Prototyping with generated content
-It can be difficult to non-coders to use generated lists of content without dedicating excessive time to copy and paste activities. I recommend asking the AI tools to generate lists in JSON format. These lists can easily be consumed by developers to create "faked data" APIs or, there are several Figma plug-ins available to read JSON and apply it to layers in a document.
+It can be difficult to non-coders to use generated lists of content without dedicating excessive time to copy and paste activities. I recommend asking the AI tools to generate lists in JSON format. These lists can easily be consumed by developers to create "faked data" APIs. There are several Figma plug-ins available to read JSON and apply it to layers in a document.
 
 ### Some Figma plug-ins for reading data in (Not I have not tested these)
 - JSON to Figma [Figma Community Link](https://www.figma.com/community/plugin/789839703871161985/JSON-to-Figma)
